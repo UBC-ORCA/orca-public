@@ -1,3 +1,13 @@
+
+DO NOT FORK -- THIS REPOSITORY IS NOT OFFICIAL
+==============================================
+
+UPDATE: VectorBlox was aquired by Microchip in September, 2019. This repository is not considered the authoritative source -- it was forked from a user's personal copy. This copy should be checked for any changes that may need to be rolled back in to the official repository.
+
+For future projects, please fork the official repository:
+https://github.com/UBC-ORCA/vbx-orca
+
+
 Vectorblox ORCA
 ================
 
